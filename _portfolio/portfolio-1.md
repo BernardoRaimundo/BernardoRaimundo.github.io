@@ -91,6 +91,11 @@ Presented in World CIST Conference, 2023
     </tr>
 </table>
 
+<div style="text-align: justify;">
+<p>The results from the first experiment suggest that the usage of hyperparameter tuning can increase the overall performance of a classifier. The DT classifier had the best overall performance among the different classifiers.</p>
+</div>
+
+
 **2) Application of Sampling Techniques**
 <div style="text-align: justify;">
 <p>The dataset was found to be highly imbalanced. To address this issue, a strategy that combines both undersampling and oversampling was implemented to reduce the risk of overfitting. We present the results of each individual model considering this strategy.</p>
