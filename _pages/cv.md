@@ -19,24 +19,16 @@ Education
 - **Sep 2014 - Sep 2017**: B.S. in Economics, **Lisbon School of Economics and Management (ISEG-UL)**
 
 
-<!--  
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Jan 2024 - Present**: Invited Lecturer – Nova Information Management School
+- **Apr 2023 - Oct 2023**: Macro Quant and Derivatives Strategy Analyst – BNP Paribas Portugal
+- **Jun 2022 - Dez 2022**: Senior Consultant Financial Services Risk Management – Ernst & Young Portugal
+- **May 2019 - Jun 2022**: Internal Auditor – Santa Casa da Misericórdia de Lisboa
+- **Sep 2018 - Feb 2019**: Internal Auditor Assistant – Deloitte Portugal
+- **Jul 2017 - Aug 2018**: Internal Auditor Trainee – Associação Nacional das Farmácias
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
+<!--  
 Skills
 ======
 * Skill 1
