@@ -58,35 +58,35 @@ Presented in World CIST Conference, 2023
     </tr>
     <tr>
         <td style="border: 2px solid black;">LR</td>
-        <td style="border: 2px solid black;">0.7489</td>
-        <td style="border: 2px solid black;">0.4276</td>
-        <td style="border: 2px solid black;">0.7607</td>
-        <td style="border: 2px solid black;">0.5474</td>
-        <td style="border: 2px solid black;">0.8329</td>
+        <td style="border: 2px solid black;">0.7438</td>
+        <td style="border: 2px solid black;">0.4221</td>
+        <td style="border: 2px solid black;">0.7676</td>
+        <td style="border: 2px solid black;">0.5446</td>
+        <td style="border: 2px solid black;">0.8325</td>
     </tr>
     <tr>
         <td style="border: 2px solid black;">SVM</td>
-        <td style="border: 2px solid black;">0.7454</td>
-        <td style="border: 2px solid black;">0.4238</td>
-        <td style="border: 2px solid black;">0.7667</td>
-        <td style="border: 2px solid black;">0.5459</td>
-        <td style="border: 2px solid black;">0.7564</td>
+        <td style="border: 2px solid black;">0.7374</td>
+        <td style="border: 2px solid black;">0.4156</td>
+        <td style="border: 2px solid black;">0.7766</td>
+        <td style="border: 2px solid black;">0.5415</td>
+        <td style="border: 2px solid black;">0.7528</td>
     </tr>
     <tr>
         <td style="border: 2px solid black;">KNN</td>
-        <td style="border: 2px solid black;">0.8396</td>
-        <td style="border: 2px solid black;">0.6372</td>
-        <td style="border: 2px solid black;">0.4566</td>
-        <td style="border: 2px solid black;">0.5320</td>
-        <td style="border: 2px solid black;">0.8453</td>
+        <td style="border: 2px solid black;">0.8315</td>
+        <td style="border: 2px solid black;">0.6012</td>
+        <td style="border: 2px solid black;">0.4639</td>
+        <td style="border: 2px solid black;">0.5237</td>
+        <td style="border: 2px solid black;">0.7845</td>
     </tr>
     <tr>
         <td style="border: 2px solid black;">DT</td>
-        <td style="border: 2px solid black;">0.9258</td>
-        <td style="border: 2px solid black;">0.7492</td>
-        <td style="border: 2px solid black;">0.9433</td>
-        <td style="border: 2px solid black;">0.8351</td>
-        <td style="border: 2px solid black;">0.9764</td>
+        <td style="border: 2px solid black;">0.9135</td>
+        <td style="border: 2px solid black;">0.7876</td>
+        <td style="border: 2px solid black;">0.7757</td>
+        <td style="border: 2px solid black;">0.7816</td>
+        <td style="border: 2px solid black;">0.5768</td>
     </tr>
 </table>
 
