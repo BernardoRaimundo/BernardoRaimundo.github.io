@@ -53,7 +53,7 @@ Presented in World CIST Conference, 2023
         <th>F1-score</th>
         <th>AUC Score</th>
     </tr>
-    <tr>
+    <tr style="border-bottom: 2px solid black;">
         <td>LR</td>
         <td>0.7489</td>
         <td>0.4276</td>
@@ -61,7 +61,7 @@ Presented in World CIST Conference, 2023
         <td>0.5474</td>
         <td>0.8329</td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 2px solid black;">
         <td>SVM</td>
         <td>0.7454</td>
         <td>0.4238</td>
@@ -69,7 +69,7 @@ Presented in World CIST Conference, 2023
         <td>0.5459</td>
         <td>0.7564</td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 2px solid black;">
         <td>KNN</td>
         <td>0.8396</td>
         <td>0.6372</td>
@@ -77,7 +77,7 @@ Presented in World CIST Conference, 2023
         <td>0.5320</td>
         <td>0.8453</td>
     </tr>
-    <tr>
+    <tr style="border-bottom: 2px solid black;">
         <td>DT</td>
         <td>0.9258</td>
         <td>0.7492</td>
@@ -86,9 +86,6 @@ Presented in World CIST Conference, 2023
         <td>0.9764</td>
     </tr>
 </table>
-
-
-
 
 
 
