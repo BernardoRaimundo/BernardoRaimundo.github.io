@@ -21,7 +21,7 @@ Education
   * Post Graduate Program in Data Science for Finance, Nova IMS
 * September 2014 - September 2017
   * B.S. in Economics, Lisbon School of Economics and Management
-
+<!--  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -38,7 +38,7 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-
+-->
 <!--   
 Skills
 ======
