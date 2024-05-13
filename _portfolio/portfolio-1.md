@@ -227,23 +227,10 @@ It's noteworthy that the decision tree Model showed minimal improvement from thi
     </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div style="text-align: justify;">
+<p>This improved predictive accuracy suggests that by assigning model weights that maximize out-of-sample prediction accuracy, the stacking ensemble tends to optimally combine the features of alternative credit scoring models to form a meta-learner credit scoring model, which captures the features of the loan data more adequately than any individual credit risk classifier. 
+A stacking ensemble is a good approach for pushing the performance limits but the improvements of the approach and the costs need to be independently evaluated by the researcher.</p>
+</div>
 
 
 **Notebooks**
