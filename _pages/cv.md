@@ -13,14 +13,36 @@ redirect_from:
 
 Education
 ======
-* September 2024 - Present
-  * Ph.D in Information Management specializing in Data Science, Nova IMS
-* February 2021 - January 2023
-  * M.S. Statistics and Information Management specializing in Risk Analysis and Management, Nova IMS
-* September 2020 - June 2021
-  * Post Graduate Program in Data Science for Finance, Nova IMS
-* September 2014 - September 2017
-  * B.S. in Economics, Lisbon School of Economics and Management
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-point">2024 - Present</div>
+    <div class="timeline-content">
+      <h3>Ph.D. in Information Management specializing in Data Science</h3>
+      <h4>Nova IMS</h4>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-point">2021 - 2023</div>
+    <div class="timeline-content">
+      <h3>M.S. Statistics and Information Management specializing in Risk Analysis and Management</h3>
+      <h4>Nova IMS</h4>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-point">2020 - 2021</div>
+    <div class="timeline-content">
+      <h3>Post Graduate Program in Data Science for Finance</h3>
+      <h4>Nova IMS</h4>
+    </div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-point">2014 - 2017</div>
+    <div class="timeline-content">
+      <h3>B.S. in Economics</h3>
+      <h4>Lisbon School of Economics and Management</h4>
+    </div>
+  </div>
+</div>
 
 <!--  
 Work experience
