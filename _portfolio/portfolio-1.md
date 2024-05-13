@@ -39,11 +39,11 @@ Presented in World CIST Conference, 2023
 
 
 **Key Findings**
+
+
+**1) Dataset Overview and Preprocessing and Initial Evaluation:**
 ---
 <div style="text-align: justify;">
-
-1) **Dataset Overview and Preprocessing and Initial Evaluation:**
-
 <p>The study utilized a comprehensive dataset containing 2.26 million rows and 151 features. Appropriate exploratory data analysis (EDA) and feature engineering techniques were applied to ensure the data's suitability for modeling. In addition to these preparatory steps, k-fold cross-validation and hyperparameter tuning were employed to further enhance the predictive capabilities of individual models. Below, we present the results from these individual models:</p>
 </div>
 
@@ -90,7 +90,7 @@ Presented in World CIST Conference, 2023
     </tr>
 </table>
 
-2) **Application of Sampling Techniques**
+**2) Application of Sampling Techniques**
 <div style="text-align: justify;">
 <p>The dataset was found to be highly imbalanced. To address this issue, a strategy that combines both undersampling and oversampling was implemented to reduce the risk of overfitting. We present the results of each individual model considering this strategy.</p>
 </div>
