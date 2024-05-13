@@ -3,7 +3,7 @@ title: "Credit Risk Scoring: A Stacking Generalization Approach"
 collection: publications
 permalink: /publication/CreditRiskScoring
 excerpt: ''
-date:
+date: 2014-01-01
 venue: 'World CIST 2023'
 paperurl: 'https://doi.org/10.1007/978-3-031-45642-8_38'
 citation: ''
