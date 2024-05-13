@@ -42,7 +42,7 @@ Presented in World CIST Conference, 2023
 ---
 <div style="text-align: justify;">
 
-1) **Dataset Overview and Preprocessing:**
+1) **Dataset Overview and Preprocessing and Initial Evaluation:**
 
 <p>The study utilized a comprehensive dataset containing 2.26 million rows and 151 features. Appropriate exploratory data analysis (EDA) and feature engineering techniques were applied to ensure the data's suitability for modeling. In addition to these preparatory steps, k-fold cross-validation and hyperparameter tuning were employed to further enhance the predictive capabilities of individual models. Below, we present the results from these individual models:</p>
 </div>
@@ -90,7 +90,79 @@ Presented in World CIST Conference, 2023
     </tr>
 </table>
 
+2) **Application of Sampling Techniques**
+<div style="text-align: justify;">
+<p>The dataset was found to be highly imbalanced. To address this issue, a strategy that combines both undersampling and oversampling was implemented to reduce the risk of overfitting. We present the results of each individual model considering this strategy.</p>
+</div>
 
+<table style="width:100%; border-collapse: collapse; border: 1px solid black;">
+    <tr>
+        <th style="border: 2px solid black;">Model</th>
+        <th style="border: 2px solid black;">Accuracy</th>
+        <th style="border: 2px solid black;">Precision</th>
+        <th style="border: 2px solid black;">Recall</th>
+        <th style="border: 2px solid black;">F1-score</th>
+        <th style="border: 2px solid black;">AUC Score</th>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">LR</td>
+        <td style="border: 2px solid black;">0.7489</td>
+        <td style="border: 2px solid black;">0.4276</td>
+        <td style="border: 2px solid black;">0.7607</td>
+        <td style="border: 2px solid black;">0.5474</td>
+        <td style="border: 2px solid black;">0.8329</td>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">SVM</td>
+        <td style="border: 2px solid black;">0.7454</td>
+        <td style="border: 2px solid black;">0.4238</td>
+        <td style="border: 2px solid black;">0.7667</td>
+        <td style="border: 2px solid black;">0.5459</td>
+        <td style="border: 2px solid black;">0.7564</td>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">KNN</td>
+        <td style="border: 2px solid black;">0.8396</td>
+        <td style="border: 2px solid black;">0.6372</td>
+        <td style="border: 2px solid black;">0.4566</td>
+        <td style="border: 2px solid black;">0.5320</td>
+        <td style="border: 2px solid black;">0.8453</td>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">DT</td>
+        <td style="border: 2px solid black;">0.9258</td>
+        <td style="border: 2px solid black;">0.7492</td>
+        <td style="border: 2px solid black;">0.9433</td>
+        <td style="border: 2px solid black;">0.8351</td>
+        <td style="border: 2px solid black;">0.9764</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It's noteworthy that the Decision Tree Model showed minimal improvement from this sampling strategy, highlighting its robustness and the importance of proper tuning.
 
 
 
