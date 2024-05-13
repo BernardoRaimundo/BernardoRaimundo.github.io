@@ -16,4 +16,3 @@ redirect_from:
     <p>Welcome to my website, where I share my publications, projects, and various coding endeavors related to these themes. I look forward to connecting with fellow researchers and practitioners who are equally passionate about advancing our understanding and application.</p>
   </div>
 </body>
-</html>
