@@ -48,6 +48,7 @@ Presented in World CIST Conference, 2023
 <p>The study utilized a comprehensive dataset containing 2.26 million rows and 151 features. Appropriate exploratory data analysis (EDA) and feature engineering techniques were applied to ensure the data's suitability for modeling. In addition to these preparatory steps, k-fold cross-validation and hyperparameter tuning were employed to further enhance the predictive capabilities of individual models. Below, we present the results from these individual models:</p>
 </div>
 
+**Table 1: First Experimental Results (After tuning)**
 <table style="width:100%; border-collapse: collapse; border: 1px solid black;">
     <tr>
         <th style="border: 2px solid black;">Model</th>
@@ -101,6 +102,7 @@ Presented in World CIST Conference, 2023
 <p>The dataset was found to be highly imbalanced. To address this issue, a strategy that combines both undersampling and oversampling was implemented to reduce the risk of overfitting. We present the results of each individual model considering this strategy.</p>
 </div>
 
+**Table 2: Second Experimental Results (Sampling applied)**
 <table style="width:100%; border-collapse: collapse; border: 1px solid black;">
     <tr>
         <th style="border: 2px solid black;">Model</th>
@@ -152,7 +154,7 @@ It's noteworthy that the decision tree Model showed minimal improvement from thi
 <p>Having a set of heterogeneous base-level learners is essential for a successful stacking solution. After performing both hyperparameter optimization and sampling, the best base-level learners and meta-learners were taken to perform the ensemble approach experiments. Table 7 summarizes the predictive accuracy metrics for each model combination</p>
 </div>
 
-Table 1: Combination of Base Learners and Meta Model
+**Table 3: Combination of Base Learners and Meta Model**
 <table style="width:100%; border-collapse: collapse; border: 1px solid black;">
     <tr>
         <th style="border: 2px solid black;">Combination</th>
@@ -181,7 +183,7 @@ Table 1: Combination of Base Learners and Meta Model
     </tr>
 </table>
 
-Table 2: Performance Metrics for Each Combination
+**Table 4: Performance Metrics for Each Combination**
 <table style="width:100%; border-collapse: collapse; border: 1px solid black;">
     <tr>
         <th style="border: 2px solid black;">Combination</th>
