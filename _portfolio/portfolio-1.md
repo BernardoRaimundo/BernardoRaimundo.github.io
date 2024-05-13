@@ -92,7 +92,7 @@ Presented in World CIST Conference, 2023
 </table>
 
 <div style="text-align: justify;">
-<p>The results from the first experiment suggest that the usage of hyperparameter tuning can increase the overall performance of a classifier. The DT classifier had the best overall performance among the different classifiers.</p>
+<p>The results from the first experiment suggest that the usage of hyperparameter tuning can increase the overall performance of a classifier. The decision tree classifier had the best overall performance among the different classifiers.</p>
 </div>
 
 
@@ -145,6 +145,85 @@ Presented in World CIST Conference, 2023
 </table>
 
 
+It's noteworthy that the decision tree Model showed minimal improvement from this sampling strategy, highlighting its robustness and the importance of proper tuning.
+
+**3) Employing Stacking**
+<div style="text-align: justify;">
+<p>Having a set of heterogeneous base-level learners is essential for a successful stacking solution. After performing both hyperparameter optimization and sampling, the best base-level learners and meta-learners were taken to perform the ensemble approach experiments. Table 7 summarizes the predictive accuracy metrics for each model combination</p>
+</div>
+
+Table 1: Combination of Base Learners and Meta Model
+<table style="width:100%; border-collapse: collapse; border: 1px solid black;">
+    <tr>
+        <th style="border: 2px solid black;">Combination</th>
+        <th style="border: 2px solid black;">Base Learners</th>
+        <th style="border: 2px solid black;">Meta Model</th>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">SC1</td>
+        <td style="border: 2px solid black;">KNN and SVM</td>
+        <td style="border: 2px solid black;">LR</td>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">SC2</td>
+        <td style="border: 2px solid black;">DT and SVM</td>
+        <td style="border: 2px solid black;">LR</td>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">SC3</td>
+        <td style="border: 2px solid black;">DT and KNN</td>
+        <td style="border: 2px solid black;">LR</td>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">SC4</td>
+        <td style="border: 2px solid black;">DT, KNN and SVM</td>
+        <td style="border: 2px solid black;">LR</td>
+    </tr>
+</table>
+
+Table 2: Performance Metrics for Each Combination
+<table style="width:100%; border-collapse: collapse; border: 1px solid black;">
+    <tr>
+        <th style="border: 2px solid black;">Combination</th>
+        <th style="border: 2px solid black;">Accuracy</th>
+        <th style="border: 2px solid black;">Precision</th>
+        <th style="border: 2px solid black;">Recall</th>
+        <th style="border: 2px solid black;">F1 Score</th>
+        <th style="border: 2px solid black;">AUC Score</th>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">SC1</td>
+        <td style="border: 2px solid black;">0.8623</td>
+        <td style="border: 2px solid black;">0.6072</td>
+        <td style="border: 2px solid black;">0.8790</td>
+        <td style="border: 2px solid black;">0.7182</td>
+        <td style="border: 2px solid black;">0.9335</td>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">SC2</td>
+        <td style="border: 2px solid black;">0.9265</td>
+        <td style="border: 2px solid black;">0.7525</td>
+        <td style="border: 2px solid black;">0.9415</td>
+        <td style="border: 2px solid black;">0.8365</td>
+        <td style="border: 2px solid black;">0.9726</td>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">SC3</td>
+        <td style="border: 2px solid black;">0.9284</td>
+        <td style="border: 2px solid black;">0.7587</td>
+        <td style="border: 2px solid black;">0.9404</td>
+        <td style="border: 2px solid black;">0.8399</td>
+        <td style="border: 2px solid black;">0.9739</td>
+    </tr>
+    <tr>
+        <td style="border: 2px solid black;">SC4</td>
+        <td style="border: 2px solid black;">0.9277</td>
+        <td style="border: 2px solid black;">0.7564</td>
+        <td style="border: 2px solid black;">0.9409</td>
+        <td style="border: 2px solid black;">0.8386</td>
+        <td style="border: 2px solid black;">0.9731</td>
+    </tr>
+</table>
 
 
 
@@ -155,20 +234,6 @@ Presented in World CIST Conference, 2023
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-It's noteworthy that the Decision Tree Model showed minimal improvement from this sampling strategy, highlighting its robustness and the importance of proper tuning.
 
 
 
