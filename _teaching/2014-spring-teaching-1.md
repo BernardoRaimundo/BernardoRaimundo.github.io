@@ -1,14 +1,23 @@
 ---
-title: "Teaching experience 1"
+title: "Deep Learning Methods in Finance"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+type: "Postgraduate course"
+permalink: /teaching/DLMF
+venue: "Nova Information Management School"
+date: 2024-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
+Deep Learning Methods in Finance course taught to Data Science for Finance students (Spring semester).
+
+Academic Year 2023/2024
+
+* The course syllabus is available [here](https://raw.githubusercontent.com/BernardoRaimundo/BernardoRaimundo.github.io/master/files/Syllabus Deep Learning Methods in Finance 2023-24.pdf).
+
+test
+
+<!--  
 
 Heading 1
 ======
@@ -18,3 +27,5 @@ Heading 2
 
 Heading 3
 ======
+
+-->
