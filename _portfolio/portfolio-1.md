@@ -44,8 +44,8 @@ Presented in World CIST Conference, 2023
 <p>1) **Dataset Overview and Preprocessing:** The study utilized a comprehensive dataset containing 2.26 million rows and 151 features. Appropriate exploratory data analysis (EDA) and feature engineering techniques were applied to ensure the data's suitability for modeling. In addition to these preparatory steps, k-fold cross-validation and hyperparameter tuning were employed to further enhance the predictive capabilities of individual models. Below, we present the results from these individual models:</p>
 </div>
 
-<table style="width:100%; border-collapse: collapse; border: 1px solid black;">
-    <tr style="border-bottom: 2px solid black;">
+<table style="width:100%; border-collapse: collapse;">
+    <tr>
         <th>Model</th>
         <th>Accuracy</th>
         <th>Precision</th>
@@ -53,7 +53,7 @@ Presented in World CIST Conference, 2023
         <th>F1-score</th>
         <th>AUC Score</th>
     </tr>
-    <tr style="border-bottom: 2px solid black;">
+    <tr>
         <td>LR</td>
         <td>0.7489</td>
         <td>0.4276</td>
@@ -61,7 +61,7 @@ Presented in World CIST Conference, 2023
         <td>0.5474</td>
         <td>0.8329</td>
     </tr>
-    <tr style="border-bottom: 2px solid black;">
+    <tr>
         <td>SVM</td>
         <td>0.7454</td>
         <td>0.4238</td>
@@ -69,7 +69,7 @@ Presented in World CIST Conference, 2023
         <td>0.5459</td>
         <td>0.7564</td>
     </tr>
-    <tr style="border-bottom: 2px solid black;">
+    <tr>
         <td>KNN</td>
         <td>0.8396</td>
         <td>0.6372</td>
@@ -77,7 +77,7 @@ Presented in World CIST Conference, 2023
         <td>0.5320</td>
         <td>0.8453</td>
     </tr>
-    <tr style="border-bottom: 2px solid black;">
+    <tr>
         <td>DT</td>
         <td>0.9258</td>
         <td>0.7492</td>
@@ -86,6 +86,8 @@ Presented in World CIST Conference, 2023
         <td>0.9764</td>
     </tr>
 </table>
+
+
 
 
 
