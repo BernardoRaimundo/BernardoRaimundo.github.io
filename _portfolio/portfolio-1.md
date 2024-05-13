@@ -46,6 +46,7 @@ Presented in World CIST Conference, 2023
 
 <table style="width:100%; border-collapse: collapse;">
     <tr>
+    </tr>
         <th>Model</th>
         <th>Accuracy</th>
         <th>Precision</th>
