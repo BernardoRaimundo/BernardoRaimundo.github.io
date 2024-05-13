@@ -11,15 +11,7 @@ redirect_from:
 
 [Download my full CV (PDF)](https://raw.githubusercontent.com/BernardoRaimundo/BernardoRaimundo.github.io/master/files/Curriculum%20Vitae.pdf)
 
-Education
-======
-- **Sep 2024 - Present**: Ph.D. in Information Management specializing in Data Science, **Nova IMS**
-- **Feb 2021 - Jan 2023**: M.S. Statistics and Information Management specializing in Risk Analysis and Management, **Nova IMS**
-- **Sep 2020 - Jun 2021**: Post Graduate Program in Data Science for Finance, **Nova IMS**
-- **Sep 2014 - Sep 2017**: B.S. in Economics, **Lisbon School of Economics and Management (ISEG-UL)**
-
-
-Work experience
+Work Experience
 ======
 - **Jan 2024 - Present**: Invited Lecturer – Nova Information Management School
 - **Apr 2023 - Oct 2023**: Macro Quant and Derivatives Strategy Analyst – BNP Paribas Portugal
@@ -27,6 +19,14 @@ Work experience
 - **May 2019 - Jun 2022**: Internal Auditor – Santa Casa da Misericórdia de Lisboa
 - **Sep 2018 - Feb 2019**: Internal Auditor Assistant – Deloitte Portugal
 - **Jul 2017 - Aug 2018**: Internal Auditor Trainee – Associação Nacional das Farmácias
+
+Education
+======
+- **Sep 2024 - Present**: Ph.D. in Information Management specializing in Data Science, Nova IMS
+- **Feb 2021 - Jan 2023**: M.S. Statistics and Information Management specializing in Risk Analysis and Management, Nova IMS
+- **Sep 2020 - Jun 2021**: Post Graduate Program in Data Science for Finance, Nova IMS
+- **Sep 2014 - Sep 2017**: B.S. in Economics, Lisbon School of Economics and Management (ISEG-UL)
+
 
 <!--  
 Skills
