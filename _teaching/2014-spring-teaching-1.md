@@ -8,14 +8,12 @@ date: 2024-01-01
 location: "City, Country"
 ---
 
-
 Deep Learning Methods in Finance course taught to Data Science for Finance students (Spring semester).
 
 Academic Year 2023/2024
 
 * The course syllabus is available [here](https://raw.githubusercontent.com/BernardoRaimundo/BernardoRaimundo.github.io/master/files/Syllabus Deep Learning Methods in Finance 2023-24.pdf).
 
-test
 
 <!--  
 
