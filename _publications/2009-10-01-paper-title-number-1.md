@@ -3,7 +3,7 @@ title: "Credit Risk Scoring: A Stacking Generalization Approach"
 collection: publications
 permalink: /publication/CreditRiskScoring
 excerpt: ''
-date: 2024-02-16
+date: 2023-02-16
 venue: 'World CIST'
 paperurl: 'https://doi.org/10.1007/978-3-031-45642-8_38'
 citation: 'Raimundo, B., Bravo, J.M. (2024). Credit Risk Scoring: A Stacking Generalization Approach. In: Rocha, A., Adeli, H., Dzemyda, G., Moreira, F., Colla, V. (eds) Information Systems and Technologies. WorldCIST 2023. Lecture Notes in Networks and Systems, vol 799. Springer, Cham.'
