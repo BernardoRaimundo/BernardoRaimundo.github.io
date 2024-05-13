@@ -13,34 +13,14 @@ redirect_from:
 
 Education
 ======
-<div class="accordion" id="educationAccordion">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="headingOne">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-        Ph.D. in Information Management specializing in Data Science (2024 - Present)
-      </button>
-    </h2>
-    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#educationAccordion">
-      <div class="accordion-body">
-        <strong>Nova IMS</strong>. Currently pursuing a Ph.D. in Information Management with a specialization in Data Science.
-      </div>
-    </div>
-  </div>
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="headingTwo">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-        M.S. Statistics and Information Management specializing in Risk Analysis and Management (2021 - 2023)
-      </button>
-    </h2>
-    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#educationAccordion">
-      <div class="accordion-body">
-        <strong>Nova IMS</strong>. Completed a Master's degree in Statistics and Information Management, focusing on Risk Analysis and Management.
-      </div>
-    </div>
-  </div>
-  <!-- More accordion items can be added similarly for other degrees -->
-</div>
-
+* September 2024 - Present
+  * Ph.D in Information Management specializing in Data Science, Nova IMS
+* February 2021 - January 2023
+  * M.S. Statistics and Information Management specializing in Risk Analysis and Management, Nova IMS
+* September 2020 - June 2021
+  * Post Graduate Program in Data Science for Finance, Nova IMS
+* September 2014 - September 2017
+  * B.S. in Economics, Lisbon School of Economics and Management
 
 <!--  
 Work experience
