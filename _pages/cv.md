@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [Download my full CV (PDF)](https://raw.githubusercontent.com/BernardoRaimundo/BernardoRaimundo.github.io/master/files/Curriculum%20Vitae.pdf)
-
+<!--  
 Work Experience
 ======
 - **Jan 2024 - Present**: Invited Lecturer – Nova Information Management School
@@ -27,7 +27,7 @@ Education
 - **Sep 2020 - Jun 2021**: Post Graduate Program in Data Science for Finance, Nova IMS
 - **Sep 2014 - Sep 2017**: B.S. in Economics, Lisbon School of Economics and Management (ISEG-UL)
 
-
+-->
 <!--  
 Skills
 ======
@@ -38,13 +38,13 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 -->
-
+<!--  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
+-->
 <!--  
 Talks
 ======
@@ -53,13 +53,13 @@ Talks
   {% endfor %}</ul>
   
 -->
-
+<!--  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ --> 
 
 <!--    
 Service and leadership
