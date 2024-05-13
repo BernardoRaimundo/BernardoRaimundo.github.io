@@ -1,12 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Credit Risk Scoring: A Stacking Generalization Approach"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/CreditRiskScoring
+excerpt: ''
+date:
+venue: 'World CIST 2023'
+paperurl: 'https://doi.org/10.1007/978-3-031-45642-8_38'
+citation: ''
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**Abstract**
+----
+Forecasting the creditworthiness of customers in new and existing loan contracts is a central issue of lenders’ activity. Credit scoring involves the use of analytical methods to transform historical loan application and loan performance data into credit scores that signal creditworthiness, inform, and determine credit decisions, determine credit limits, and loan rates, and assist in fraud detection, delinquency intervention, or loss mitigation. The standard approach to credit scoring is to pursue a “winner-take-all” perspective by which, for each dataset, a single believed to be the “best” statistical learning or machine learning classifier is selected from a set of candidate approaches using some method or criteria often neglecting model uncertainty. This paper empirically investigates the predictive accuracy of single-based classifiers against the stacking generalization approach in credit risk modelling using real-world peer-to-peer lending data. The findings show that stacking ensembles consistently outperform most traditional individual credit scoring models in predicting the default probability. Moreover, the findings show that adopting a feature selection process and hyperparameter tuning contributes to improving the performance of individual credit risk models and the super-learner scoring algorithm, helping models to be simpler, more comprehensive, and with lower classification error rates. Improving credit scoring models to better identify loan delinquency can substantially contribute to reducing loan impairments and losses leading to an improvement in the financial performance of credit institutions.
