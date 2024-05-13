@@ -41,7 +41,10 @@ Presented in World CIST Conference, 2023
 **Key Findings**
 ---
 <div style="text-align: justify;">
-<p>1) **Dataset Overview and Preprocessing:** The study utilized a comprehensive dataset containing 2.26 million rows and 151 features. Appropriate exploratory data analysis (EDA) and feature engineering techniques were applied to ensure the data's suitability for modeling. In addition to these preparatory steps, k-fold cross-validation and hyperparameter tuning were employed to further enhance the predictive capabilities of individual models. Below, we present the results from these individual models:</p>
+
+1) **Dataset Overview and Preprocessing:**
+
+<p>The study utilized a comprehensive dataset containing 2.26 million rows and 151 features. Appropriate exploratory data analysis (EDA) and feature engineering techniques were applied to ensure the data's suitability for modeling. In addition to these preparatory steps, k-fold cross-validation and hyperparameter tuning were employed to further enhance the predictive capabilities of individual models. Below, we present the results from these individual models:</p>
 </div>
 
 <table style="width:100%; border-collapse: collapse; border: 1px solid black;">
