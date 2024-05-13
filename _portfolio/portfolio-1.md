@@ -243,6 +243,5 @@ A stacking ensemble is a good approach for pushing the performance limits but th
 * [Final Model Combination](https://github.com/BernardoRaimundo/Credit-Risk-Stacking-Ensemble/blob/main/Python%20Code%20For%20Deployment/6.%20Lending%20Club%20(Stacking).ipynb)
 
 
-<div style="text-align: justify;">
-<p>Raimundo, B., Bravo, J.M. (2024). Credit Risk Scoring: A Stacking Generalization Approach. In: Rocha, A., Adeli, H., Dzemyda, G., Moreira, F., Colla, V. (eds) Information Systems and Technologies. WorldCIST 2023. Lecture Notes in Networks and Systems, vol 799. Springer, Cham. Available [here](https://doi.org/10.1007/978-3-031-45642-8_38)</p>
-</div>
+
+Raimundo, B., Bravo, J.M. (2024). Credit Risk Scoring: A Stacking Generalization Approach. In: Rocha, A., Adeli, H., Dzemyda, G., Moreira, F., Colla, V. (eds) Information Systems and Technologies. WorldCIST 2023. Lecture Notes in Networks and Systems, vol 799. Springer, Cham. Available [here](https://doi.org/10.1007/978-3-031-45642-8_38)
