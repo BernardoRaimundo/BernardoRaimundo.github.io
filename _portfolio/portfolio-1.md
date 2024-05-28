@@ -38,6 +38,35 @@ Presented in World CIST Conference, 2023
 </div>
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Code Example</title>
+<style>
+  code, pre {
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  pre {
+    overflow: auto;
+    padding: 10px;
+  }
+</style>
+</head>
+<body>
+<h2>Code Demonstration</h2>
+<p>This is an example of inline code: <code>var x = 10;</code></p>
+<p>Here is a multiline code block:</p>
+<pre><code>function test() {
+  console.log("Hello, world!");
+}</code></pre>
+</body>
+</html>
+
+
 **Key Findings**
 ---
 
