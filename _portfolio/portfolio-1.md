@@ -37,7 +37,7 @@ Presented in World CIST Conference, 2023
 <p>In conclusion, the adoption of stacking generalization, an ensemble method employing heterogeneous learners, represents a novel approach in credit scoring. By combining diverse base models and leveraging their predictions through a meta-model, this study aims to advance model predictive capabilities beyond traditional methods like bagging and boosting.</p>
 </div>
 
-
+<!--  
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +65,7 @@ Presented in World CIST Conference, 2023
 }</code></pre>
 </body>
 </html>
-
+-->
 
 **Key Findings**
 ---
