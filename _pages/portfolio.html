@@ -11,21 +11,35 @@ author_profile: true
 
 {% include base_path %}
 
-<div>
-  <a href="link-to-project-1">Credit Risk Scoring: A Stacking Generalization Approach</a>
-</div>
-<div>
-  This project demonstrates the use of stacking ensemble methods to improve the accuracy of credit risk scoring models.
-</div>
-<div>
-  <a href="link-to-project-2">Enhancing portfolio optimization: a comparative study in commodity markets</a>
-</div>
-<div>
-  This project explores various optimization techniques to enhance portfolio performance, focusing on commodity markets.
-</div>
+<section>
+  <h2>Credit Risk Scoring: A Stacking Generalization Approach</h2>
+  <p>This project demonstrates the use of stacking ensemble methods to improve the accuracy of credit risk scoring models.</p>
+  <ul>
+    <li><a href="link-to-full-text">Full Text</a></li>
+    <li><a href="link-to-code">Code</a></li>
+    <li><a href="link-to-data">Data</a></li>
+  </ul>
+  <details>
+    <summary>Abstract</summary>
+    <p>This project focuses on...</p>
+  </details>
+</section>
+
+<section>
+  <h2>Enhancing portfolio optimization: a comparative study in commodity markets</h2>
+  <p>This project explores various optimization techniques to enhance portfolio performance, focusing on commodity markets.</p>
+  <ul>
+    <li><a href="link-to-full-text">Full Text</a></li>
+    <li><a href="link-to-code">Code</a></li>
+    <li><a href="link-to-data">Data</a></li>
+  </ul>
+  <details>
+    <summary>Abstract</summary>
+    <p>This project investigates...</p>
+  </details>
+</section>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
-
 
