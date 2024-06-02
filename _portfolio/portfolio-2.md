@@ -4,9 +4,9 @@ excerpt: " <br/><img src=''>"
 collection: portfolio
 ---
 
-<b>Introduction</b>
+**Introduction**
+---
 
-----
 <div style="text-align: justify;">
 <p>Portfolio management is crucial in the finance and investment sectors, providing significant benefits to both individual investors and institutions. 
 Various mathematical models are employed by researchers to make informed decisions on investment allocation and management, optimizing the risk-return trade-off 
