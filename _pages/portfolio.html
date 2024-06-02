@@ -24,3 +24,8 @@ author_profile: true
   }
 </style>
 
+<ul class="portfolio-list">
+{% for post in site.portfolio %}
+  <li>{% include archive-single.html %}</li>
+{% endfor %}
+</ul>
