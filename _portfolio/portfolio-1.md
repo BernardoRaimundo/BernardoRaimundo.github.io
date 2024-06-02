@@ -1,6 +1,6 @@
 ---
 title: "Credit Risk Scoring: A Stacking Generalization Approach"
-excerpt: "Model Combination Approach to Credit Scoring<br/><img src='/images/CreditCard.png'>"
+excerpt: ""
 collection: portfolio
 ---
 
