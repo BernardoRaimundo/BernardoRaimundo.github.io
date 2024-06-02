@@ -11,17 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<style>
-  ul.portfolio-list {
-    list-style-type: none;
-    padding: 0;
-  }
-  ul.portfolio-list li {
-    margin-bottom: 5px; /* Adjust this value to control the space between links */
-  }
-</style>
-
-<ul class="portfolio-list">
+<ul>
 {% for post in site.portfolio %}
   <li>{% include archive-single.html %}</li>
 {% endfor %}
