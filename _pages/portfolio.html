@@ -1,37 +1,16 @@
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Here, I showcase a selection of projects that delve into various finance-related topics. These projects highlight my journey through the intricate landscape of finance and machine learning. I will continue to expand this portfolio as I develop new ideas and explore emerging areas.</div>
+  <div class="wordwrap">Here, I showcase a selection of projects that delve into various finance-related topics. These projects highlight my journey through the intricate landscape of finance and machine learning. I will continue to expand this portfolio as I develop new ideas and explore emerging areas. </a></div>
 {% endif %}
 
 {% include base_path %}
 
-<section>
-  <h2>Credit Risk Scoring: A Stacking Generalization Approach</h2>
-  <p>This project demonstrates the use of stacking ensemble methods to improve the accuracy of credit risk scoring models.</p>
-  <ul>
-    <li><a href="link-to-full-text">Full Text</a></li>
-    <li><a href="link-to-code">Code</a></li>
-    <li><a href="link-to-data">Data</a></li>
-  </ul>
-  <details>
-    <summary>Abstract</summary>
-    <p>This project focuses on...</p>
-  </details>
-</section>
-
-<section>
-  <h2>Enhancing portfolio optimization: a comparative study in commodity markets</h2>
-  <p>This project explores various optimization techniques to enhance portfolio performance, focusing on commodity markets.</p>
-  <ul>
-    <li><a href="link-to-full-text">Full Text</a></li>
-    <li><a href="link-to-code">Code</a></li>
-    <li><a href="link-to-data">Data</a></li>
-  </ul>
-  <details>
-    <summary>Abstract</summary>
-    <p>This project investigates...</p>
-  </details>
-</section>
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
