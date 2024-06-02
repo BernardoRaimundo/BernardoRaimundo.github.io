@@ -1,5 +1,5 @@
 ---
-title: "Credit Risk Scoring: A Stacking Generalization Approach"
+title: "- Credit Risk Scoring: A Stacking Generalization Approach"
 excerpt: ""
 collection: portfolio
 ---
