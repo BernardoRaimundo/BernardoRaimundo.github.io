@@ -4,15 +4,12 @@ excerpt: " <br/><img src=''>"
 collection: portfolio
 ---
 
-**Introduction**
+**Paper Overview**
 ---
 
-<div style="text-align: justify;">
-<p>Portfolio management is crucial in the finance and investment sectors, providing significant benefits to both individual investors and institutions. 
-Various mathematical models are employed by researchers to make informed decisions on investment allocation and management, optimizing the risk-return trade-off 
-according to investor preferences and constraints. This study evaluates the effectiveness of various portfolio optimization techniques by incorporating short selling, 
-often overlooked in existing research. We examine advanced methods, including Mean Variance Optimization (MVO), Global Minimum Variance (GMV), Maximum Diversification (MD), 
-Risk Parity (RP), Hierarchical Risk Parity (HRP) and Equal Weighted Portfolio (EW). Employing historical data from seven commodity groups, we conduct one hundred portfolio 
-simulations, assessing performance through metrics such as the Sharpe and Sortino ratio, downside deviation and maximum drawdown with the median performance analysed over 
-a six-month rolling window. This analysis highlights the importance of matching portfolio strategies with investor risk preferences, especially when integrating techniqueslike 
-short selling.</p>
+
+
+
+
+**Introduction**
+---
