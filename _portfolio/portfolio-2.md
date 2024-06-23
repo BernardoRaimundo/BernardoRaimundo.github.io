@@ -1,5 +1,5 @@
 ---
-title: "Enhancing portfolio optimization: a comparative study in commodity markets"
+title: "Enhancing portfolio optimization with machine learning methods: A comparative study using commodity markets data"
 excerpt: " <br/><img src=''>"
 collection: portfolio
 ---
