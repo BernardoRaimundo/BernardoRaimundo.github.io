@@ -23,12 +23,16 @@ author_profile: true
   }
   ul.portfolio-list li a {
     font-size: 18px; /* Adjust this value to control the size of the link text */
+    text-decoration: none; /* Remove underline from links */
+    color: #1e90ff; /* Set link color */
+  }
+  ul.portfolio-list li a:hover {
+    text-decoration: underline; /* Underline links on hover */
   }
 </style>
 
 <ul class="portfolio-list">
-{% for post in site.portfolio %}
-  <li>{% include archive-single.html %}</li>
-{% endfor %}
+  {% for post in site.portfolio %}
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+  {% endfor %}
 </ul>
-
