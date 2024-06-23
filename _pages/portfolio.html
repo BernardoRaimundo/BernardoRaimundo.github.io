@@ -23,9 +23,9 @@ author_profile: true
     align-items: center;
   }
   ul.portfolio-list li::before {
-    content: "•"; /* Unicode for black dot */
+    content: "●"; /* Unicode for black circle */
     color: black; /* Set dot color */
-    font-size: 20px; /* Adjust this value to control the size of the dot */
+    font-size: 1.5em; /* Adjust this value to control the size of the dot */
     margin-right: 10px; /* Space between dot and link */
   }
   ul.portfolio-list li a {
@@ -44,4 +44,3 @@ author_profile: true
     <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
