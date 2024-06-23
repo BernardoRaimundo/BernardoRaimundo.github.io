@@ -19,6 +19,14 @@ author_profile: true
   }
   ul.portfolio-list li {
     margin-bottom: 10px; /* Adjust this value to control the space between links */
+    display: flex;
+    align-items: center;
+  }
+  ul.portfolio-list li::before {
+    content: "•"; /* Unicode for black dot */
+    color: black; /* Set dot color */
+    font-size: 20px; /* Adjust this value to control the size of the dot */
+    margin-right: 10px; /* Space between dot and link */
   }
   ul.portfolio-list li a {
     font-size: 18px; /* Adjust this value to control the size of the link text */
@@ -33,7 +41,7 @@ author_profile: true
 
 <ul class="portfolio-list">
   {% for post in site.portfolio %}
-    <li>- <a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
